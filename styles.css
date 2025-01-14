@@ -1,3 +1,15 @@
 body{
-    background-color: pink;
+    background-color: lightpink;
+}
+
+div.header{
+    background-color: slategray;
+}
+
+p#second{
+    color: slategray;
+}
+
+li.personal{
+color: slategray;
 }
